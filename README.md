@@ -1,6 +1,7 @@
 <h1 align="center" id="title">e-Letter - A SaaS Email Newsletter Platform</h1>
 
-<p id="description">A Software as a Service (SaaS) Email Newsletter is a digital platform or service that enables businesses and individuals to create, manage, and distribute email newsletters efficiently and effectively. These newsletters serve as powerful communication tools, allowing organizations to engage with their audience, share valuable content, promote products or services, and build brand awareness.</p>
+<p id="description">A Software as a Service (SaaS) Email Newsletter is a digital platform or service that enables businesses and individuals to create, manage, and distribute email newsletters efficiently and effectively. These newsletters serve as powerful communication tools, allowing organizations to engage with their audience, share valuable content, promote products or services, and build brand awareness.<br><br>
+This project is a modern, scalable SaaS (Software as a Service) email newsletter platform built using Next.js 14, TypeScript, AWS SES (Simple Email Service), AstraDB, and Stripe. It provides a comprehensive solution for managing and sending email newsletters efficiently, with a focus on performance, security, and user experience.</p>
 
 <h2>🧐 Features</h2>
 
