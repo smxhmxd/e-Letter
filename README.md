@@ -1,4 +1,4 @@
-<h1 align="center" id="title">SaaS Email Newsletter</h1>
+<h1 align="center" id="title">e-Letter - A SaaS Email Newsletter Platform</h1>
 
 <p id="description">A Software as a Service (SaaS) Email Newsletter is a digital platform or service that enables businesses and individuals to create, manage, and distribute email newsletters efficiently and effectively. These newsletters serve as powerful communication tools, allowing organizations to engage with their audience, share valuable content, promote products or services, and build brand awareness.</p>
 
